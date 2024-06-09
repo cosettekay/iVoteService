@@ -64,12 +64,11 @@ The main class that simulates the entire process of configuring a question, gene
   C : 23
   D : 31
 
-```sh
   Question Type: Single Choice
   Number of Students Answering: 71
   1. Right : 36
   2. Wrong : 35
-```
+
 ## Code Structure
 - Question.java: Defines the abstract Question class.
 - SingleChoiceQuestion.java: Defines the SingleChoiceQuestion class that extends Question.

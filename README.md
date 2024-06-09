@@ -68,6 +68,7 @@ The main class that simulates the entire process of configuring a question, gene
   Number of Students Answering: 71
   1. Right : 36
   2. Wrong : 35
+   ```
 
 ## Code Structure
 - Question.java: Defines the abstract Question class.
